@@ -7,5 +7,6 @@ import "github.com/devfullcycle/13-GraphQL/internal/database"
 // It serves as dependency injection for your app, add any dependencies you require here.
 
 type Resolver struct{
-	CategoryDB *database.Category
+    CategoryDB *database.Category
+    CourseDB *database.Course
 }
