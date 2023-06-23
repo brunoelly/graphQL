@@ -1,2 +1,3 @@
-# graphQL
-Introduction to GraphQL with GoLang
+# GraphQL
+
+Introduction to GraphQL with GoLang from the course Dev FullCycle. 
